@@ -1,0 +1,6 @@
+{ "name": "class",
+  "version": "0.3.0",
+  "description": "Class implementation (tiny)",
+  "author": "TJ Holowaychuk <tj@vision-media.ca>",
+  "main": "./lib/class.js"
+}

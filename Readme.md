@@ -10,6 +10,10 @@
   
       $ kiwi -v install class
 
+via npm:
+
+    $ npm install class
+
 ## About Class.js
 
 Without wasting performance on cross-browser functionality,
